@@ -12,9 +12,8 @@ st.set_page_config(page_title="T20 Predictor", layout="wide")
 # ===============================
 @st.cache_data
 def load_data():
-   pd.read_csv("ICC Mens T20 Worldcup.csv")
+    df = pd.read_csv("ICC Mens T20 Worldcup.csv")
     return df
-
 df = load_data()
 
 st.title("🏏 T20 World Cup AI Predictor")
