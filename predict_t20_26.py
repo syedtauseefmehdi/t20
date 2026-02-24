@@ -12,7 +12,7 @@ st.set_page_config(page_title="T20 Predictor", layout="wide")
 # ===============================
 @st.cache_data
 def load_data():
-    df = pd.read_csv(r"C:\Users\TAUSEEF\Desktop\python\t20\ICC Mens T20 Worldcup.csv")
+   pd.read_csv("ICC Mens T20 Worldcup.csv")
     return df
 
 df = load_data()
