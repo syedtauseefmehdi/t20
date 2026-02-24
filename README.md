@@ -4,7 +4,7 @@
 > an ensemble model with head-to-head and historical win-rate features.
 
 ## 🚀 Live Demo
-[Click here to try the app](http://localhost:8507/))  <!-- deploy on Streamlit Cloud (free) -->
+[Click here to try the app]([http://localhost:8507/)](https://syedtauseefmehdi-t20-predict-t20-26-tzpmcu.streamlit.app/))  <!-- deploy on Streamlit Cloud (free) -->
 
 ## 📸 Screenshots
 <img width="1888" height="899" alt="image" src="https://github.com/user-attachments/assets/1480e9a4-0bdc-4c5f-860b-ad896291722a" />
